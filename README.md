@@ -1,2 +1,3 @@
 # Assignment-Daria-Plotnikova
-Repository for intership in Skanatek
+Repository for internship in Skanatek
+(changed in original)
